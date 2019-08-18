@@ -9,7 +9,7 @@ const App: React.FC = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          编辑 <code>src/App.tsx</code> and save to reload.
         </p>
         <a
           className="App-link"
@@ -18,7 +18,7 @@ const App: React.FC = () => {
           rel="noopener noreferrer"
         >
           {I18N.common.action}
-        </a>
+        </a>`
       </header>
     </div>
   );
